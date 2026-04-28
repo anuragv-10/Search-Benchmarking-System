@@ -51,7 +51,7 @@ To spin this up locally, you'll need Python installed.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/Saimanish123/search_benchmark.git
+   git clone https://github.com/anuragv-10/Search-Benchmarking-System.git
    cd search_benchmark
    ```
 
